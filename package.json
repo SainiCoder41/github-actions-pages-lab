@@ -1,0 +1,11 @@
+
+{
+  "name": "github-actions-pages-lab",
+  "version": "1.0.0",
+  "description": "Sample website for GitHub Actions CI/CD and GitHub Pages deployment",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "test": "node tests.js"
+  }
+}
